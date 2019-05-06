@@ -1,0 +1,1 @@
+docker build -t mrsoft/image_resizer build
